@@ -14,7 +14,14 @@ by reading the comment under the pack.
 [Cymatics' "Ultimate List of Royalty Free Sample Libraries"](https://cymatics.fm/blogs/production/ultimate-list-of-royalty-free-sample-libraries)
 have "put together a list of the best free sample libraries that are 100% royalty-free for you to use".
 
+[Black Lotus Audio](https://blacklotusaudio.com/secret-free-downloads-vault/) has a "Free Downloads Vault", which comes
+packed with Serum presets, as well as drum, melody and vocal sample packs.
+
 # Drums
+
+## Acoustic
+
+- [Black Lotus Audio - STUDIO (DL Link)](https://blafreedirect.s3.us-east-2.amazonaws.com/studioacousticdrums.zip); drum hits and loops
 
 ## Breakbeats
 
@@ -22,3 +29,7 @@ have "put together a list of the best free sample libraries that are 100% royalt
 - [SampleRadar - 282 experimental breaks samples](https://www.musicradar.com/news/sampleradar-experimental-breaks-samples)
 - [SampleRadar - 286 free bespoke breaks samples](https://www.musicradar.com/news/sampleradar-286-free-bespoke-breaks-samples)
 - [SampleRadar - 355 free breakbeat samples](https://www.musicradar.com/news/sampleradar-free-breakbeat-samples-1)
+
+# Vocals
+
+- [Black Lotus Audio - DIANNA (DL Link)](https://blafreedirect.s3.us-east-2.amazonaws.com/diannaartistpack.zip); sounds, spoken and sung phrases
