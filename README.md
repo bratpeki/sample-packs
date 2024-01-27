@@ -17,6 +17,9 @@ have "put together a list of the best free sample libraries that are 100% royalt
 [Black Lotus Audio](https://blacklotusaudio.com/secret-free-downloads-vault/) has a "Free Downloads Vault", which comes
 packed with Serum presets, as well as drum, melody and vocal sample packs.
 
+[Exclusivemusicplus' sample pack collection](https://exclusivemusicplus.com/posts/e1fa9faf8fd03077/the-best-high-quality-sample-packs)
+features plenty of sample packs, plenty of which are labeled with "100% Royalty Free"!
+
 # Drums
 
 ## Acoustic
