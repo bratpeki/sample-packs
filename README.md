@@ -18,13 +18,9 @@ have "put together a list of the best free sample libraries that are 100% royalt
 packed with Serum presets, as well as drum, melody and vocal sample packs.
 
 [Exclusivemusicplus' sample pack collection](https://exclusivemusicplus.com/posts/e1fa9faf8fd03077/the-best-high-quality-sample-packs)
-features plenty of sample packs, plenty of which are labeled with "100% Royalty Free"!
+features a lot of sample packs, plenty of which are labeled with "100% Royalty Free"!
 
 # Drums
-
-## Acoustic
-
-- [Black Lotus Audio - STUDIO (DL Link)](https://blafreedirect.s3.us-east-2.amazonaws.com/studioacousticdrums.zip); drum hits and loops
 
 ## Breakbeats
 
@@ -32,6 +28,12 @@ features plenty of sample packs, plenty of which are labeled with "100% Royalty 
 - [SampleRadar - 282 experimental breaks samples](https://www.musicradar.com/news/sampleradar-experimental-breaks-samples)
 - [SampleRadar - 286 free bespoke breaks samples](https://www.musicradar.com/news/sampleradar-286-free-bespoke-breaks-samples)
 - [SampleRadar - 355 free breakbeat samples](https://www.musicradar.com/news/sampleradar-free-breakbeat-samples-1)
+
+## One-Shots
+
+- [Black Lotus Audio - STUDIO (DL Link)](https://blafreedirect.s3.us-east-2.amazonaws.com/studioacousticdrums.zip); acoustic drums and drum loops
+- [Cymatics' "Orchid"](https://cymatics.fm/products/orchid-premium-sample); hip-hop and R&B drum one-shots and loops, melodies
+- [Cymatics's "Cobra"](https://cymatics.fm/products/cobra-hip-hop-sample-pack); hip-hop and trap drums, FXs, 808s and melodies
 
 # Vocals
 
