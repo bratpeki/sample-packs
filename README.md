@@ -24,10 +24,20 @@ features a lot of sample packs, plenty of which are labeled with "100% Royalty F
 
 ## Breakbeats
 
-- [SampleRadar - 200 free drum break samples](https://www.musicradar.com/news/tech/sampleradar-200-free-drum-break-samples-522667); slower drum break, great for hip hop. One-shots included for most.
-- [SampleRadar - 282 experimental breaks samples](https://www.musicradar.com/news/sampleradar-experimental-breaks-samples); very odd, slower breakbeats, with phaser- and flanger-like effects applied on top. One-shots not included.
-- [SampleRadar - 286 free bespoke breaks samples](https://www.musicradar.com/news/sampleradar-286-free-bespoke-breaks-samples); some D'n'B and hip hop breakbeats. One-shots not included.
+- [SampleRadar - 200 free drum break samples](https://www.musicradar.com/news/tech/sampleradar-200-free-drum-break-samples-522667)
+Slower drum breaks, great for hip hop. One-shots not included.
+
+- [SampleRadar - 282 experimental breaks samples](https://www.musicradar.com/news/sampleradar-experimental-breaks-samples)
+Very odd, slower breakbeats, with phaser- and flanger-like effects applied on top. One-shots not included.
+
+- [SampleRadar - 286 free bespoke breaks samples](https://www.musicradar.com/news/sampleradar-286-free-bespoke-breaks-samples)
+Some D'n'B and hip hop breakbeats. One-shots not included.
+
 - [SampleRadar - 355 free breakbeat samples](https://www.musicradar.com/news/sampleradar-free-breakbeat-samples-1)
+Slower drum breaks, great for hip hop. One-shots included for most. Also has bass, FX and synth loops.
+
+- [485 free DnB essentials samples](https://www.musicradar.com/news/sampleradar-dnb-essentials-samples)
+Great breakbeats for D'n'B, jungle and breakcore. One-shots included. Also has bass and pad loops, as well as some bass, chorus and FX one-shots.
 
 ## One-Shots
 
