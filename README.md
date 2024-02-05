@@ -39,6 +39,9 @@ Slower drum breaks, great for hip hop. One-shots included for most. Also has bas
 - [485 free DnB essentials samples](https://www.musicradar.com/news/sampleradar-dnb-essentials-samples)<br>
 Great breakbeats for D'n'B, jungle and breakcore. One-shots included. Also has bass and pad loops, as well as some bass, chorus and FX one-shots.
 
+- [328 free drum 'n' bass samples](https://www.musicradar.com/news/tech/sampleradar-328-free-drum-n-bass-samples-222244)<br>
+Great breakbeats for D'n'B, jungle and breakcore. One-shots included. Also has bass loops and one-shots.
+
 ## One-Shots
 
 - [Black Lotus Audio - STUDIO (DL Link)](https://blafreedirect.s3.us-east-2.amazonaws.com/studioacousticdrums.zip); acoustic drums and drum loops
