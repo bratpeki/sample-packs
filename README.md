@@ -37,17 +37,26 @@ Some D'n'B and hip hop breakbeats. One-shots not included.
 Slower drum breaks, great for hip hop. One-shots included for most. Also has bass, FX and synth loops.
 
 - [485 free DnB essentials samples](https://www.musicradar.com/news/sampleradar-dnb-essentials-samples)<br>
-Great breakbeats for D'n'B, jungle and breakcore. One-shots included. Also has bass and pad loops, as well as some bass, chorus and FX one-shots.
+Great breakbeats for DnB, jungle and breakcore. One-shots included. Also has bass and pad loops, as well as some bass, chorus and FX one-shots.
 
 - [328 free drum 'n' bass samples](https://www.musicradar.com/news/tech/sampleradar-328-free-drum-n-bass-samples-222244)<br>
-Great breakbeats for D'n'B, jungle and breakcore. One-shots included. Also has bass loops and one-shots.
+Great breakbeats for DnB, jungle and breakcore. One-shots included. Also has bass loops and one-shots.
+
+- [Hardcore Junglism's "Free Sample Pack Vol 1"](https://hardcorejunglism.com/free-sample-pack-01/)<br>
+Breakbeat loops. Also some less notable melodic and bass loops, as well as bass stabs.
 
 ## One-Shots
 
-- [Black Lotus Audio - STUDIO (DL Link)](https://blafreedirect.s3.us-east-2.amazonaws.com/studioacousticdrums.zip); acoustic drums and drum loops
-- [Cymatics' "Orchid"](https://cymatics.fm/products/orchid-premium-sample); hip hop and R&B drum one-shots and loops, melodies
-- [Cymatics's "Cobra"](https://cymatics.fm/products/cobra-hip-hop-sample-pack); hip hop and trap drums, FXs, 808s and melodies
+- [Black Lotus Audio - STUDIO (DL Link)](https://blafreedirect.s3.us-east-2.amazonaws.com/studioacousticdrums.zip)<br>
+Acoustic drum one-shots and loops.
+
+- [Cymatics' "Orchid"](https://cymatics.fm/products/orchid-premium-sample)<br>
+Hip hop and RnB drum one-shots and loops, as well as melodies.
+
+- [Cymatics's "Cobra"](https://cymatics.fm/products/cobra-hip-hop-sample-pack)<br>
+Hip hop and trap drum one-shots, FXs, 808s and melodies.
 
 # Vocals
 
-- [Black Lotus Audio - DIANNA (DL Link)](https://blafreedirect.s3.us-east-2.amazonaws.com/diannaartistpack.zip); sounds, spoken and sung phrases
+- [Black Lotus Audio - DIANNA (DL Link)](https://blafreedirect.s3.us-east-2.amazonaws.com/diannaartistpack.zip)<br>
+Sounds, spoken and sung phrases.
