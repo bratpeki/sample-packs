@@ -47,16 +47,8 @@ Breakbeat loops. Also some less notable melodic and bass loops, as well as bass 
 
 ## One-Shots
 
-- [Black Lotus Audio - STUDIO (DL Link)](https://blafreedirect.s3.us-east-2.amazonaws.com/studioacousticdrums.zip)<br>
-Acoustic drum one-shots and loops.
-
 - [Cymatics' "Orchid"](https://cymatics.fm/products/orchid-premium-sample)<br>
 Hip hop and RnB drum one-shots and loops, as well as melodies.
 
 - [Cymatics's "Cobra"](https://cymatics.fm/products/cobra-hip-hop-sample-pack)<br>
 Hip hop and trap drum one-shots, FXs, 808s and melodies.
-
-# Vocals
-
-- [Black Lotus Audio - DIANNA (DL Link)](https://blafreedirect.s3.us-east-2.amazonaws.com/diannaartistpack.zip)<br>
-Sounds, spoken and sung phrases.
