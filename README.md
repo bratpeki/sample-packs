@@ -66,3 +66,7 @@ Trap drums, drum and melody loops, MIDIs, FXs and more.
 
 - [Black Lotus Audio - DIANNA](https://blafreedirect.s3.us-east-2.amazonaws.com/diannaartistpack.zip)<br>
 Sounds, spoken and sung phrases.
+
+- [SampleRadar - 1,338 free female vocal samples](https://www.musicradar.com/news/tech/free-female-vocal-samples)
+
+- [SampleRadar - 327 free vocal ad-lib samples](https://www.musicradar.com/news/tech/free-vocal-ad-lib-samples)
