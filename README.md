@@ -20,6 +20,8 @@ packed with Serum presets, as well as drum, melody and vocal sample packs.
 [Exclusivemusicplus' sample pack collection](https://exclusivemusicplus.com/posts/e1fa9faf8fd03077/the-best-high-quality-sample-packs)
 features a lot of sample packs, plenty of which are labeled with "100% Royalty Free"!
 
+---
+
 # Drums
 
 ## Breakbeats
@@ -47,8 +49,11 @@ Breakbeat loops. Also some less notable melodic and bass loops, as well as bass 
 
 ## One-Shots
 
-- [Cymatics' "Orchid"](https://cymatics.fm/products/orchid-premium-sample)<br>
+- [Cymatics' "Orchid"](https://cymatics.fm/pages/thank-orchid-premium-sample-pack)<br>
 Hip hop and RnB drum one-shots and loops, as well as melodies.
 
-- [Cymatics's "Cobra"](https://cymatics.fm/products/cobra-hip-hop-sample-pack)<br>
+- [Cymatics's "Cobra"](https://cymatics.fm/pages/thank-cobra)<br>
 Hip hop and trap drum one-shots, FXs, 808s and melodies.
+
+- [ProducerGrind's "Trap Genesis"](https://producergrind.com/pages/trap-genesis-beta-pack-thank)<br>
+Trap drums, drum and melody loops, MIDIs, FXs and more.
