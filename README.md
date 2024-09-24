@@ -24,6 +24,9 @@ features a lot of sample packs, plenty of which are labeled with "100% Royalty F
 
 # Drums
 
+## Acoustic
+- [Black Lotus Audio - STUDIO (DL Link)](https://blafreedirect.s3.us-east-2.amazonaws.com/studioacousticdrums.zip); drum hits and loops
+
 ## Breakbeats
 
 - [SampleRadar - 200 free drum break samples](https://www.musicradar.com/news/tech/sampleradar-200-free-drum-break-samples-522667)<br>
@@ -57,3 +60,7 @@ Hip hop and trap drum one-shots, FXs, 808s and melodies.
 
 - [ProducerGrind's "Trap Genesis"](https://producergrind.com/pages/trap-genesis-beta-pack-thank)<br>
 Trap drums, drum and melody loops, MIDIs, FXs and more.
+
+# Vocals
+
+- [Black Lotus Audio - DIANNA (DL Link)](https://blafreedirect.s3.us-east-2.amazonaws.com/diannaartistpack.zip); sounds, spoken and sung phrases
