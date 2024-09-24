@@ -25,7 +25,8 @@ features a lot of sample packs, plenty of which are labeled with "100% Royalty F
 # Drums
 
 ## Acoustic
-- [Black Lotus Audio - STUDIO (DL Link)](https://blafreedirect.s3.us-east-2.amazonaws.com/studioacousticdrums.zip); drum hits and loops
+- [Black Lotus Audio - STUDIO](https://blafreedirect.s3.us-east-2.amazonaws.com/studioacousticdrums.zip)<br>
+Drum hits and loops.
 
 ## Breakbeats
 
@@ -63,4 +64,5 @@ Trap drums, drum and melody loops, MIDIs, FXs and more.
 
 # Vocals
 
-- [Black Lotus Audio - DIANNA (DL Link)](https://blafreedirect.s3.us-east-2.amazonaws.com/diannaartistpack.zip); sounds, spoken and sung phrases
+- [Black Lotus Audio - DIANNA](https://blafreedirect.s3.us-east-2.amazonaws.com/diannaartistpack.zip)<br>
+Sounds, spoken and sung phrases.
